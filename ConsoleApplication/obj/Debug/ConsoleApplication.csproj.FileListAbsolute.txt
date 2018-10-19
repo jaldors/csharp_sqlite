@@ -1,0 +1,14 @@
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\EntityFramework.dll
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\System.Data.SQLite.dll
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\System.Data.SQLite.EF6.dll
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\System.Data.SQLite.Linq.dll
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\EntityFramework.xml
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\bin\Debug\System.Data.SQLite.xml
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\projetos\inmemorydb\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
